@@ -19,7 +19,7 @@ rem git status
 timeout 5 >nul
 echo ========================================================================
 echo GIT push -u origin master
-git push -u appext master
+git push -u origin master
 rem echo -----------------------------------------------------------------------
 rem git status 
 pause
