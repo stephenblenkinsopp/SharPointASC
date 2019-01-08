@@ -7,6 +7,6 @@
     "includeClientSideAssets": true
   },
   "paths": {
-    "zippedPackage": "solution/helloworld-webpart.sppkg"
+    "zippedPackage": "solution/helloworld-webpartSJB.sppkg"
   }
 }
